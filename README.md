@@ -2,6 +2,8 @@
 
 AwakeBar is a lightweight macOS utility for user-controlled display wakefulness sessions.
 
+Developed by Inclusive Certify™.
+
 It helps keep the display available during presentations, focus sessions, monitoring tasks, streaming, and reduced-interaction workflows. AwakeBar uses a standard macOS display wakefulness assertion and does not request Accessibility permission or create synthetic input.
 
 ## Features
